@@ -1,62 +1,24 @@
-<div align="center">
-
-# 🌌 Tarun Kumar
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+AI/ML+Enthusiast+%7C+Blockchain+Builder;Building+Technology+That+Changes+Lives" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tarun-kumar-aa3324386)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarung@icloud.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tarrun01&color=blueviolet&style=for-the-badge)](https://github.com/tarrun01)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class tarunkumar:
-    def __init__(self):
-        self.role = "Full Stack/ML"
-        self.location = "Building the Future 🚀"
-        self.focus = ["Full Stack", "Cybersecurity", "SQL"]
-        self.mindset = "Execution > Excuses"
+<!--
+    Hey there, I'm Daria Stanilevici!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something epic.")
-```
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+-->
 
-🔥 **What Drives Me:**
-- 💡 Turning **ideas into real-world products** that ship, scale, and solve problems
-- 🛠️ Learning by **building, breaking, and iterating** until it's perfect
-- 🎯 Writing **clean code** with smart architecture and meaningful impact
-- ⚡ **Consistency over motivation.** Execution over noise.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-🌟 **Current Focus:**
-- 🤖 Building Apps that actually work in production
-- 🛡️ Crafting cybersecurity tools & automation frameworks
-- ⛓️ Exploring blockchain architecture & decentralized protocols
-- 🌐 Shipping full-stack applications with seamless UX
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
 
-🎯 **Long-term Mission:**  
-To become a high-impact engineer building technology that **changes lives**, not just ships features.
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
 </div>
 
 
